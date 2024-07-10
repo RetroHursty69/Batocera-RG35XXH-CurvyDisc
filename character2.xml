@@ -1,0 +1,26 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+      <image name="charcter21" extra="true">              
+         <path>./_inc/character2.png</path>                         
+      </image>  	  
+   </view> 
+   
+   <view name="detailed, video, gamecarousel, grid">               
+      <image name="charcter22" extra="true">               
+         <path>./_inc/character2.png</path>        
+      </image> 
+               
+      <image name="charcter27" extra="true">               
+         <path>./_inc/character2.png</path>                                                                       
+      </image>                                                                                
+   </view> 
+
+   <view name="basic">               
+      <image name="charcter22" extra="true">               
+         <path>./_inc/character2.png</path>                                  
+      </image>                                                                                
+   </view>  
+      
+    </theme>
